@@ -3,4 +3,8 @@
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
 - Anirudh Sharma finds the Community Classroom initiative really great!
+<<<<<<< HEAD
 - Mayuran Sivarajah. Kunal you are the best teacher.
+=======
+- Mayuran Sivarajah says this community is the best and Kunal is grate!
+>>>>>>> origin/mayuran
